@@ -1,0 +1,6 @@
+const React = require('react'); == import React from 'react';
+
+export default AA; => import AA from '가져오는곳의경로';
+export const aa = 'aa'; => import {aa} from '가져오는곳의경로'; => 구조분해 문법
+
+{/**/} => 주석
